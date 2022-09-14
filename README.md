@@ -6,9 +6,7 @@
 
 [![github-chart](https://github-chart.vercel.app/api?user=kotonn)](https://github.com/kotonn/github-chart)
 
-<!--
-**kotonn/kotonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
--->
+<h3>エディタ</h3>
+<img src="https://img.shields.io/badge/-Visualstudiocode-007ACC.svg?logo=visualstudiocode&style=plastic">
