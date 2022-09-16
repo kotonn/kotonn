@@ -6,11 +6,11 @@
 
 [![github-chart](https://github-chart.vercel.app/api?user=kotonn)](https://github.com/kotonn/github-chart)
 
-<h3>ライブラリ</h3>
+<h4>ライブラリ</h4>
 <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
 
-<h3>フレームワーク</h3>
+<h4>フレームワーク</h4>
 <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=plastic">
 
-<h3>エディタ</h3>
+<h4>エディタ</h4>
 <img src="https://img.shields.io/badge/-Visualstudiocode-007ACC.svg?logo=visualstudiocode&style=plastic">
