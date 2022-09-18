@@ -8,6 +8,7 @@
 
 <h4>言語</h4>
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
+<img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=plastic">
 
 <h4>ライブラリ</h4>
 <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
