@@ -6,6 +6,9 @@
 
 [![github-chart](https://github-chart.vercel.app/api?user=kotonn)](https://github.com/kotonn/github-chart)
 
+<h4>マークアップ</h4>
+<img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
+
 <h4>言語</h4>
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
 <img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=plastic">
