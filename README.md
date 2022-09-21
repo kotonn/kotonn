@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Kazuki, who dream to be a full-stack engineer.
 
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=kotonn&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kotonn/)
 
