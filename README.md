@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Kazuki, who dream to be a full-stack engineer. <br>
 I'm currently learning PostgreQL!!<br>
-↓ Here are some contacts＾＾ <br>
+↓ Here is my contact＾＾ <br>
 <a href="http://twitter.com/miyamogram">twitter</a>
 
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=kotonn&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kotonn/)
