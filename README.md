@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Kazuki, who dream to be a full-stack engineer. <br>
 I'm currently learning Apache, Tomcat, and PostgreQL for building a server!!<br>
-I wanna touch all techs!!
+I wanna touch all techs not just programming, but like editing OS!!
 ↓ Here is my contact＾＾ <br>
 <a href="http://twitter.com/miyamogram">twitter</a>
 
